@@ -1,0 +1,102 @@
+@media only screen and (max-width: 576px) {
+  
+}
+
+
+@media (max-width:1418px){
+  .container{
+    height: 70px;
+  }
+
+  .navi-mumbai{
+    font-size:13px;
+  }
+
+  .loc-icon{
+    /* font-size: 10px; */
+  }
+
+  .gada-logo{
+    font-size: 30px;
+  }
+
+}
+
+@media(max-width:1338px){
+  .gada-logo{
+    font-size: 27px;
+  }
+
+  #bank-offer{
+    height: auto;
+  }
+
+}
+
+@media(max-width:1216px){
+  .gada-logo{
+    font-size: 25px;
+  }
+
+  .loc-icon{
+    font-size: 25px;
+  }
+
+  .navi-mumbai{
+    font-size: 12px;
+  }
+
+  .dis-h3{
+    font-size: 70px;
+  }
+
+  .dis-p{
+    font-size: 13px;
+  }
+
+}
+
+@media(max-width:1165px){
+  .navi-mumbai{
+    display: none;
+  }
+
+}
+
+@media (max-width:829px){
+  .icon-side{
+    display: none;
+  }
+
+  .dis-p{
+    font-size: 15px;
+  }
+
+  #DHD-container-fluid{
+    height: auto;
+  }
+}
+
+@media (max-width:610px){
+  .gada-logo{
+    font-size:21px;
+  }
+
+  .loc-icon{
+    display: none;
+  }
+
+  .exciting-offer-text{
+    font-size: 16px;
+  }
+}
+
+@media (max-width:560px){
+  .needed{
+    display: none;
+  }
+
+  .gada-logo{
+    font-size: 25px;
+  }
+}
